@@ -1,12 +1,12 @@
 {
-    "serverAddress": "localhost",
-    "serverName": "Node Y56 Intranet",
+    "serverAddress": "DeepSpacerr10",
+    "serverName": "Extranet Node TOBIA2520-TR",
     "iconName": "Moon-icon.png",
-    "terminalID": "Y56",
+    "terminalID": "BWLF",
     "defaultUser": {
         "userId": "user",
-        "password": "",
-        "userName": "anonymous"
+        "password": "beowulf",
+        "userName": "freetrader"
     },
     "initialHistory": {
         "user": [
