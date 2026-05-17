@@ -1,25 +1,25 @@
 [
     {
-        "userId": "8A73B5",
+        "userId": "GRIZ.ly",
         "password": "trustno1",
-        "userName": "Mulder, Fox"
+        "userName": "Grizwold, Kal"
     },
 
     {
-        "userId": "a",
-        "password": "a",
-        "userName": "Mulder, Fox"
+        "userId": "LunaportBenedict",
+        "password": "arnold",
+        "userName": "Lunaport, Benedict"
     },
 
     {
-        "userId": "admin",
-        "password": "admin",
-        "userName": "root"
+        "userId": "HaleOfAPrice",
+        "password": "4themoney",
+        "userName": "Price, Basil"
     },
 
     {
-        "userId": "n",
-        "password": "n",
-        "userName": "debug"
+        "userId": "NightsWings",
+        "password": "puter",
+        "userName": "Willy"
     }
 ]
